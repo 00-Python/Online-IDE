@@ -1,5 +1,1 @@
-x = 10
-if x != 10:
-    print("Bye, world!")
-else:
-    print("Hello, world!")
+print("Hello, World!")
